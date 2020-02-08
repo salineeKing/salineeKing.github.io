@@ -406,7 +406,7 @@ button:focus {
   position: relative;
 }
 
-.side_menu .input-group input {
+.side_menu .input-group-append {
   width: 100%;
   border: none;
   border-radius: 0px;
@@ -444,16 +444,6 @@ button:focus {
   font-size: 12px;
   color: #fff;
   font-family: "Roboto", sans-serif;
-}
-
-.side_menu .input-group .input-group-append {
-  position: absolute;
-  right: 10px;
-  top: 47%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  z-index: 4;
 }
 
 .side_menu .input-group .input-group-append .btn-outline-secondary {
