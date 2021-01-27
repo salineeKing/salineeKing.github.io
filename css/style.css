@@ -455,7 +455,7 @@ button:focus {
 
 .side_menu .menu_right {
   margin-top: 105px;
-  max-height: 310px;
+  /*max-height: 310px;*/
   overflow-y: scroll;
 }
 
