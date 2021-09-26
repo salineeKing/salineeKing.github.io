@@ -533,6 +533,7 @@ button:focus {
   overflow: hidden;
   width: 100%;
   padding: 300px 0px 300px 0px;
+  background-color: #38a4ff;
 }
 
 .home_banner_area .banner_inner .banner_content {
